@@ -1,0 +1,3 @@
+Generic package to generate permutations of a list and to get the parity of a given permutation. See code for details.
+
+Note: Number_Theory_Tools.adb and Number_Theory_Tools.ads are needed to compile the package
